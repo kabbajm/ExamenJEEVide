@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16511bf1-33c4-4c28-a159-b0304fcdeb74" name="Changes" comment="First Version">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ginfo/emi/ac/ma/ExamenJeeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ginfo/emi/ac/ma/ExamenJeeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ginfo/emi/ac/ma/ExamenJeeApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ginfo/emi/ac/ma/ExamenJeeApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2AaJyWGzLe6nB9XkEu3RQ3pKPC5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/kabba/IdeaProjects/examenjee/src/main/java/ginfo/emi/ac/ma&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kabba/IdeaProjects/ExamenJeeVide&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;0aa2ae69b62e0c1b2ab95259491ddef3&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kabba\IdeaProjects\examenjee\src\main\java\ginfo\emi\ac\ma\security" />
+      <recent name="C:\Users\kabba\IdeaProjects\examenjee\src\main\java\ginfo\emi\ac\ma\repositories" />
+      <recent name="C:\Users\kabba\IdeaProjects\examenjee\src\main\java\ginfo\emi\ac\ma\models" />
+      <recent name="C:\Users\kabba\IdeaProjects\examenjee\src\main\java\ginfo\emi\ac\ma\services" />
+      <recent name="C:\Users\kabba\IdeaProjects\examenjee\src\main\resources\templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ginfo.emi.ac.ma.controlleurs" />
+      <recent name="ginfo.emi.ac.ma.models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ExamenJeeApplication">
+    <configuration name="ExamenJeeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ginfo.emi.ac.ma.ExamenJeeApplication" />
+      <module name="examenjee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ginfo.emi.ac.ma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamenJeeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="examenjee" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ginfo.emi.ac.ma.ExamenJeeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExamenJeeApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16511bf1-33c4-4c28-a159-b0304fcdeb74" name="Changes" comment="" />
+      <created>1655242021200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655242021200</updated>
+      <workItem from="1655288093073" duration="1627000" />
+      <workItem from="1656156826204" duration="66583000" />
+      <workItem from="1656252969899" duration="11954000" />
+      <workItem from="1656265927687" duration="3458000" />
+      <workItem from="1656269948819" duration="352000" />
+      <workItem from="1656271123931" duration="527000" />
+      <workItem from="1656272008975" duration="174000" />
+      <workItem from="1656272230649" duration="2234000" />
+      <workItem from="1656274850429" duration="2250000" />
+      <workItem from="1656277164517" duration="680000" />
+    </task>
+    <task id="LOCAL-00001" summary="Creation Project">
+      <created>1655242581447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655242581447</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Version Complete">
+      <created>1656274162295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656274162295</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Version">
+      <created>1656277428233</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656277428233</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creation Projet" />
+    <MESSAGE value="Creation Project" />
+    <MESSAGE value="Version Complete" />
+    <MESSAGE value="First Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Version" />
+  </component>
+</project>
